@@ -1,0 +1,7 @@
+C:\Users\forgacs.tamara\source\repos\20211005_2\20211005_2\bin\Debug\20211005_2.exe.config
+C:\Users\forgacs.tamara\source\repos\20211005_2\20211005_2\bin\Debug\20211005_2.exe
+C:\Users\forgacs.tamara\source\repos\20211005_2\20211005_2\bin\Debug\20211005_2.pdb
+C:\Users\forgacs.tamara\source\repos\20211005_2\20211005_2\obj\Debug\20211005_2.csprojAssemblyReference.cache
+C:\Users\forgacs.tamara\source\repos\20211005_2\20211005_2\obj\Debug\20211005_2.csproj.CoreCompileInputs.cache
+C:\Users\forgacs.tamara\source\repos\20211005_2\20211005_2\obj\Debug\20211005_2.exe
+C:\Users\forgacs.tamara\source\repos\20211005_2\20211005_2\obj\Debug\20211005_2.pdb
