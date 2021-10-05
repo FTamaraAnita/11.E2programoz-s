@@ -13,7 +13,8 @@ namespace _20211001
             //feladat1();
             //feladat2();
             //feladat6();
-
+            //feladat9();
+            feladat4();
             Console.WriteLine("enter");
             Console.ReadLine();
         }
@@ -49,5 +50,13 @@ namespace _20211001
             int c = int.Parse(Console.ReadLine());
             int legkisebb = Math.Min(a, Math.Min )
         }
+        static void feladat4()
+            {
+            Console.Write("adj egy számot meg!");
+            double a = double.Parse(Console.ReadLine());
+
+            
+            }
+        
     }
 }
