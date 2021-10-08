@@ -1,0 +1,7 @@
+Z:\prog 11\20211008\20211008\bin\Debug\20211008.exe.config
+Z:\prog 11\20211008\20211008\bin\Debug\20211008.exe
+Z:\prog 11\20211008\20211008\bin\Debug\20211008.pdb
+Z:\prog 11\20211008\20211008\obj\Debug\20211008.csprojAssemblyReference.cache
+Z:\prog 11\20211008\20211008\obj\Debug\20211008.csproj.CoreCompileInputs.cache
+Z:\prog 11\20211008\20211008\obj\Debug\20211008.exe
+Z:\prog 11\20211008\20211008\obj\Debug\20211008.pdb
